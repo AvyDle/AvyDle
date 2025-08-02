@@ -1,9 +1,12 @@
+<div align="center">
+
 # 🥑 Hey there! I'm **Aviwe Dlepu** 👋
 
-## 📊 Customer Insights Specialist | 🎯 Aspiring Data Scientist | 🧮 Applied Mathematics Student
+### 📊 Customer Insights Specialist | 🎯 Aspiring Data Scientist | 🧮 Applied Mathematics Student
 
-> *Transforming e-commerce data into measurable business growth at Takealot*  
-> *BSc Applied Mathematics & Computer Science @ UNISA*
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6B8E23&center=true&vCenter=true&width=600&lines=Transforming+E-commerce+Data+into+Growth;3%2B+Years+at+Takealot;BSc+Applied+Math+%26+Computer+Science" alt="Typing SVG" />
+
+</div>
 
 ---
 
@@ -27,110 +30,116 @@ class AviweProfile:
             "driver_failures_decreased": "50.5%",
             "service_delivery_improvement": "30%"
         }
+________________________________________
 🥑 What Makes Me Different?
-💼 Real Business Impact	🧠 Mathematical Foundation
-🎯 15% increase in customer retention	📐 Applied Mathematics background
-⚡ 40% faster response times	📊 Statistical analysis expertise
-📉 36.7% reduction in contact issues	🔬 Scientific problem-solving approach
-🚚 50.5% decrease in driver failures	🎲 Probability & modeling skills
-💰 R850K+ annual cost savings	🧮 Algorithmic thinking
+💼 Real Business Impact
+•	🎯 15% increase in customer retention
+•	⚡ 40% faster response times
+
+•	📉 36.7% reduction in contact issues
+•	🚚 50.5% decrease in driver failures
+•	💰 R850K+ annual cost savings
+🧠 Mathematical Foundation
+•	📐 Applied Mathematics background
+•	📊 Statistical analysis expertise
+•	🔬 Scientific problem-solving approach
+•	🎲 Probability & modeling skills
+•	🧮 Algorithmic thinking
+________________________________________
 🛠️ Tech Stack & Skills
 Data & Analytics
-SQL
-
-BigQuery
-
-Looker Studio
-
-Tableau
-
+       
 Languages & Tools
-Python
-
-Scikit Learn
-
-Git
-
-Jupyter
-
+       
 Specializations
-Machine Learning
-
-Customer Analytics
-
-Predictive Modeling
-
-Statistical Analysis
-
-🚀 Project Spotlight - PRODUCTION READY!
-🎯 SA E-Commerce Customer Insights Analytics 🎯
+       
+________________________________________
+🎓 Professional Certifications
+IBM Professional Certificates
+   
+Specialized Data Skills
+     
+Database & Analytics
+     
+________________________________________
+🚀 Featured Projects Portfolio
+🏆 Where Code Meets Business Impact 🏆
+A showcase of data science projects solving real-world problems
+________________________________________
+🎯 FLAGSHIP PROJECT
+🥑 SA E-Commerce Customer Insights Analytics 🥑
 Advanced ML Platform for South African E-commerce Intelligence
-
-🎯 Project Objective:
-Built an end-to-end customer analytics platform that predicts customer behavior, segments audiences, and quantifies business impact using advanced machine learning and interactive visualization.
-
-🔍 What I Built:
-
-Customer Segmentation Models using K-means clustering and RFM analysis
-Churn Prediction Models with 87.3% accuracy (Random Forest)
-Customer Lifetime Value modeling with 73.4% prediction accuracy
-3 Interactive Tableau Dashboards for executive decision-making
-Complete Analytics Pipeline from BigQuery to business insights
-🏆 Key Achievements:
-
-🎯 87.3% churn prediction accuracy using Random Forest (exceeds benchmarks)
-💰 R4.8M+ annual revenue potential identified through customer analytics
-📊 4 strategic customer segments with actionable business recommendations
-📈 656% ROI potential demonstrated for analytics implementation
-🔢 44,000+ customer records analyzed across 6 integrated datasets
-⚡ Business Impact:
-
-Premium Loyalists (25%): 8-12% revenue growth opportunity through VIP programs
-Digital Natives (30%): 23-31% growth via mobile experience optimization
-Occasional Shoppers (28%): 15-22% growth through engagement campaigns
-At-Risk High-Spenders (17%): Critical retention intervention preventing revenue loss
-🔗 Links: Project Repository | Live Dashboard | Documentation
-
-📚 Learning Journey
-Currently Mastering
-🐍 Advanced Python for Data Science | 🤖 Machine Learning Algorithms | 📊 Statistical Modeling | 🔄 MLOps & Deployment
-
-Recent Certifications
-🎓 Google BigQuery Masterclass (2024) | 📊 SQL for Data Analysis (2024) | 🏗️ Data Warehouse Fundamentals (2024)
-
-🌱 GitHub Activity
-Aviwe's GitHub stats
-
-Top Languages
-
-GitHub Streak
-
-💡 What Drives Me
-🥑 "From Numbers to Narratives" 🥑
-I believe that behind every dataset lies a story waiting to be told. My mission is to bridge the gap between complex mathematical models and actionable business strategies, turning raw data into growth catalysts.
-
-🎯 Business Impact	🧮 Mathematical Rigor	🚀 Continuous Growth
-Every analysis must drive real business value	Combining academic theory with practical application	Always learning, always improving
-• Customer retention strategies	• Statistical significance testing	• Advanced ML techniques
-• Operational efficiency optimization	• Mathematical model validation	• Deep learning applications
-• Revenue growth acceleration	• Probability-based predictions	• MLOps best practices
-• Cost reduction initiatives	• Algorithmic problem solving	• Industry trend analysis
-📫 Let's Connect!
+     
+🎯 The Challenge: South African e-commerce needed predictive analytics to reduce churn and maximize customer lifetime value.
+🧠 My Solution: Built an end-to-end ML platform using K-means clustering, Random Forest algorithms, and interactive Tableau dashboards.
+💰 Business Impact: - 🎯 87.3% churn prediction accuracy (industry benchmark: 75%) - 💸 R4.8M+ annual revenue potential identified - 👥 4 strategic customer segments with actionable insights - 📊 44,000+ customer records analyzed across 6 datasets
+🔗 Explore Project | 📊 Live Demo | 📝 Technical Report
+________________________________________
+🚀 MACHINE LEARNING PROJECTS
+🌧️ Rainfall Prediction Classifier
+     
+🌦️ Predicting Weather Patterns with ML
+Built a classification model to predict rainfall using meteorological data. Applied feature engineering, hyperparameter tuning, and cross-validation to achieve optimal performance.
+Key Achievements: - 🎯 85%+ prediction accuracy - 🔧 Advanced feature engineering - 📊 Comprehensive model evaluation - 🌍 Real-world environmental impact
+🔗 View Code
+🚀 SpaceX Launch Success Analysis
+     
+🛰️ Analyzing Space Mission Success Factors
+Comprehensive analysis of SpaceX launches and landings using statistical methods and predictive modeling. Explored factors affecting mission success rates.
+Key Achievements: - 🚀 100+ space missions analyzed - 📈 Success rate trend identification - 🎯 Landing prediction model - 📊 Interactive visualizations
+🔗 View Code
+________________________________________
+📈 BUSINESS ANALYTICS PROJECTS
+💹 Stock Market Analysis Dashboard
+     
+📊 Historical Stock & Revenue Analysis
+Created interactive dashboards analyzing historical stock performance and revenue trends. Implemented financial metrics and visualization techniques for investment insights.
+Key Features: - 📈 Real-time stock data integration - 💰 Revenue trend analysis - 🎯 Investment recommendation engine - 📊 Interactive Plotly dashboards
+🔗 View Code
+🔍 Data Science Funnel Analysis
+     
+⚡ End-to-End DS Methodology
+Comprehensive analysis applying the complete data science funnel from problem definition to solution deployment. Demonstrates systematic approach to data-driven decision making.
+Key Components: - 🎯 Problem framing & hypothesis testing - 🔧 Data preprocessing & feature engineering - 🤖 Model development & validation - 📊 Business insights & recommendations
+🔗 View Code
+________________________________________
+🛠️ TECHNICAL FOUNDATIONS
+📚 Data Science Ecosystem Project
+     
+🔬 Comprehensive overview of data science tools, libraries, and methodologies
+Demonstrating mastery of the Python data science ecosystem including Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn. Includes practical examples and best practices.
+🔗 Explore Ecosystem
+________________________________________
+🎯 PROJECT IMPACT SUMMARY
+🚀 PROJECTS
+6
+Completed
+🎯 ACCURACY
+87.3%
+Best Model
+💰 IMPACT
+R4.8M+
+Revenue Potential
+📊 RECORDS
+44K+
+Data Points
+🏆 CERTS
+8+
+Professional
+________________________________________
+🥑 What’s Next? 🥑
+🔮 Coming Soon: Real-time ML deployment, Advanced deep learning projects, MLOps pipeline automation
+💡 Always exploring new ways to turn data into business value!
+________________________________________
+📫 Let’s Connect!
 🥑 Ready to Transform Data Together? 🥑
-Whether you're looking for a passionate data professional, want to collaborate on analytics projects, or just chat about the latest in data science, I'd love to hear from you!
-
-Email
-
-LinkedIn
-
-GitHub
-
-Phone
-
+Whether you’re looking for a passionate data professional, want to collaborate on analytics projects, or just chat about the latest in data science, I’d love to hear from you!
+        
 📍 Cape Town, South Africa | 🕐 Available for Data Science Opportunities
+________________________________________
 🥑 Fun Fact 🥑
 Just like an avocado, I believe the best insights come from having the right combination of solid foundation (the pit), rich content (the flesh), and attractive presentation (the skin)!
-
 ⭐ If you find my work interesting, please consider giving my repositories a star! ⭐
-
-"In data we trust, in insights we grow" 📊🌱
+________________________________________
+“In data we trust, in insights we grow” 📊🌱
+```
