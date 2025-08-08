@@ -138,7 +138,7 @@
 - 👥 4 strategic customer segments with actionable insights
 - 📊 44,000+ customer records analyzed across 6 datasets
 
-**🔗 [Explore Project](https://github.com/AvyDle/sa-ecommerce-analytics)** | **📊 [Live Demo](coming-soon)** | **📝 [Technical Report](coming-soon)**
+**🔗 [Explore Project](https://github.com/AvyDle/SA-Ecommerce-Customer-Analytics)** | **📊 [Live Demo](https://github.com/AvyDle/SA-Ecommerce-Customer-Analytics/tree/main/dashboards)** | **📝 [Technical Report](https://github.com/AvyDle/SA-Ecommerce-Customer-Analytics/tree/main/reports)**
 
 ---
 
